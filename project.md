@@ -4,15 +4,24 @@ title: Project
 permalink: /project/
 ---
 
-### Multi-task Learning with Disjoint Datasets
+## <span style="font-weight:bold">Multi-task Learning with Disjoint Datasets</span>
+-
 
-### Multi-view Object Recognition
 
-### Smart Home
+##  <span style="font-weight:bold">Multi-view Object Recognition</span>
+-
 
-### Micro Emotion Recognition
 
-### Learning Featured Fingerprints with DBN framework for Indoor Localization
+##  <span style="font-weight:bold">Smart Home</span>
+-
+
+
+##  <span style="font-weight:bold">Micro Emotion Recognition</span>
+-
+
+
+##  <span style="font-weight:bold">Learning Featured Fingerprints with DBN framework for Indoor Localization</span>
+-
 
 
 <!-- {% include image.html url="/images/edward-james-olmos-stand-deliver.jpg" caption="That's right. Tough guys don't do math; tough guys deep fry chicken for a living." width="400" align="right" %} -->
