@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/myself.jpg" caption="My master's graduation photos in 2019." width=350 align="right" %}
+{% include image.html url="/images/myself.png" caption="My master's graduation photos in 2019." width=350 align="right" %}
 
 
 I do have interests outside of the academy, but not many.
