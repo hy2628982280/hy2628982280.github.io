@@ -1,0 +1,16 @@
+<ul class="menu">
+
+    {% for hongyan in site.data.menu %}
+    {% if hongyan.subcategories != null %}
+    <li><a href="{{ hongyan.href }}" class="page-link">{{ hongyan.title }}</a>
+    <ul class="sub-menu">
+    {% for subcategory in hongyan.subcategories %}
+    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+    {% else %}
+     <li><a href="{{ hongyan.href }}" class="page-link">{{ hongyan.title }}</a>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
