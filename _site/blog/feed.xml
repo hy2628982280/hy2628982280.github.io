@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>YongYuan's homepage</title>
-    <description>I am Yong Yuan. Willard is my English Name, which means great bravery. I completed my bachelor's degree in Faculty of Science at Xi'Dian University of science and technology of the electronics information on July 1, 2013.</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <title>HongYan's homepage</title>
+    <description>I am an phD student of Computer Science and Technology in Shanghai Jiao Tong University (SJTU). I major in computer vision and deep learning. Currently, I focus on meta-learning for few-shot image generation. Prior to now, I was a master at SJTU. Before that, I obtained my bachelor degree from Shenzhen University(SZU).</description>
+    <link>https://www.aiforall.pro</link>
+    <atom:link href="https://www.aiforall.pro/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>总结回顾：2018年，云深不知处</title>
@@ -66,8 +66,8 @@
 &lt;p&gt;2018年，在工作、生活袅绕的云雾里，全情置身认知的深山，不知身在何处，但我知道，无限风景在西峰。&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Apr 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/2018-year-end-summary.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/2018-year-end-summary.html</guid>
+        <link>https://www.aiforall.pro//blog/2019/04/2018-year-end-summary/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2019/04/2018-year-end-summary/</guid>
       </item>
     
       <item>
@@ -114,8 +114,8 @@
 &lt;p&gt;视频朝向检测有自身多帧的优势，如果是图片社交app，单张图片要达到非常高的准确率是极其困难的（在保持一定召回情况下）。&lt;/p&gt;
 </description>
         <pubDate>Sun, 06 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/image-orientation-detection.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/image-orientation-detection.html</guid>
+        <link>https://www.aiforall.pro//blog/2019/01/image-orientation-detection/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2019/01/image-orientation-detection/</guid>
       </item>
     
       <item>
@@ -196,8 +196,8 @@
 &lt;p&gt;这是小白菜开发的第一款真正可以称得上软件的系统，小白菜期待自己能够坚持下去。另外，INS暂时没有开源的计划，主要考虑到整个系统还不是很完善，效果也不是很好，等时机到了再说。&lt;/p&gt;
 </description>
         <pubDate>Sun, 04 Nov 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/ins-system.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/ins-system.html</guid>
+        <link>https://www.aiforall.pro//blog/2018/11/ins-system/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2018/11/ins-system/</guid>
       </item>
     
       <item>
@@ -566,8 +566,8 @@
 &lt;p&gt;在本篇博文里，小白菜对图ANN、基于量化的两类方法分别选取了最具代表性的方法HNSW和OPQ方法进行比较详细的总结，其中由以基于PQ的量化方法在工业界最为实用，基于图的ANN方法，在规模不是特别大但对召回要求非常高的检索场景下，是非常适用的。除此之外，图ANN方法可以和OPQ结合起来适用，来提高OPQ的召回能力，具体可以阅读&lt;a href=&quot;https://arxiv.org/abs/1802.02422&quot;&gt;Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors&lt;/a&gt;和&lt;a href=&quot;https://arxiv.org/abs/1804.09996&quot;&gt;Link and code: Fast indexing with graphs and compact regression codes&lt;/a&gt;这两篇文章。&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Jul 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/opq-and-hnsw.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/opq-and-hnsw.html</guid>
+        <link>https://www.aiforall.pro//blog/2018/07/opq-and-hnsw/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2018/07/opq-and-hnsw/</guid>
       </item>
     
       <item>
@@ -671,8 +671,8 @@ E视频分数：E1+E1+E1
 &lt;p&gt;3个方面的内容，这些内容在视频搜索上一般都会涉及。关于多帧索引及排序的问题，学术上能够查询的论文比较少，这里小白菜结合自己的理解以及应用实践总结了小部分的经验，希望对遇到这方面问题的小伙伴有些参考的价值，也欢迎在一线从事CBIR的小伙伴拍砖交流。&lt;/p&gt;
 </description>
         <pubDate>Sun, 27 May 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/multi-frames-ranking-problem.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/multi-frames-ranking-problem.html</guid>
+        <link>https://www.aiforall.pro//blog/2018/05/multi-frames-ranking-problem/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2018/05/multi-frames-ranking-problem/</guid>
       </item>
     
       <item>
@@ -798,8 +798,8 @@ E视频分数：E1+E1+E1
 &lt;p&gt;在本篇文章中，小白菜就PHash的原理、存在的缺陷以及改进的方案做了详细的总结，这个问题的存在以及想到的解决方法并不是凭空产生和获得的，而是实际应用中确确实实会存在这样或那样的问题，需要不断从原理上推敲，然后反复进行实验。当然对PHash的改进应该有非常多，这种改进方案不一定是最好的，但是可以值得借鉴，希望对有需要的同学有所帮助或者启发。&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Mar 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/improve-phash-for-copy-detection.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/improve-phash-for-copy-detection.html</guid>
+        <link>https://www.aiforall.pro//blog/2018/03/improve-phash-for-copy-detection/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2018/03/improve-phash-for-copy-detection/</guid>
       </item>
     
       <item>
@@ -915,8 +915,8 @@ S(X, Y) = \sum_{i=1}^{i=n} \sum_{j=1}^{j=m} d_\min(x_i, y_j)
 &lt;p&gt;中间穿插了对PQ的拓展Polysemous Codes的拓展。后面如遇其他计算机视觉中的非对称性问题，会同步到这里。&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/asymmetry-problem-in-computer-vision.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/asymmetry-problem-in-computer-vision.html</guid>
+        <link>https://www.aiforall.pro//blog/2017/12/asymmetry-problem-in-computer-vision/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2017/12/asymmetry-problem-in-computer-vision/</guid>
       </item>
     
       <item>
@@ -988,8 +988,8 @@ K_FK(X, Y) = (\wp^X_\lambda)^T \wp^Y_\lambda
 &lt;p&gt;上式是$L_\lambda$对$G^X_\lambda$的归一化，我们将$\wp^X_\lambda$称为Fisher向量，该Fisher向量$\wp^X_\lambda$等于梯度向量$G^X_\lambda$的维度，又由于$G^X_\lambda$的维度仅与概率密度函数的参数数目$M$有关，所以空间$\chi$中任意样本$X$的$T$个观测量最终都可以表示成一固定维度的向量。通过使用$\wp^X_\lambda$算子，使得非线性核相似性度量问题转化为线性问题。这种变换带来的一个明显的优势是，在分类的时候可以采用更高效的线性分类器。&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Oct 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/fim-fisher-kernel.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/fim-fisher-kernel.html</guid>
+        <link>https://www.aiforall.pro//blog/2017/10/fim-fisher-kernel/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2017/10/fim-fisher-kernel/</guid>
       </item>
     
       <item>
@@ -1113,8 +1113,8 @@ M = num_ouput = 4096
 &lt;p&gt;既然知道了GEMM是限制整个网络时间消耗的主要部分，那么我们是不是可以对GEMM做优化调整呢？答案是否定的，GEMM采用Fortran编程语言实现，经过了科学计算编程人员几十年的优化，性能已经极致，所以很难再去进一步的优化，在Nvidia的论文&lt;a href=&quot;http://arxiv.org/pdf/1410.0759.pdf&quot;&gt;cuDNN: Efficient Primitives for Deep Learning&lt;/a&gt;中指出了还存在着其他的一些方法，但是他们最后采用的还是改进的GEMM版本实现。GEMM可匹敌的对手是傅里叶变换，将卷积转为频域的相乘，但是由于在图像的卷积中存在strides，使得傅里叶变换方式很难保持高效。&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Aug 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/neural-network-layers-understanding.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/neural-network-layers-understanding.html</guid>
+        <link>https://www.aiforall.pro//blog/2017/08/neural-network-layers-understanding/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2017/08/neural-network-layers-understanding/</guid>
       </item>
     
       <item>
@@ -1194,8 +1194,8 @@ M = num_ouput = 4096
 &lt;p&gt;小白菜特别希望老妈和老爸对生活充满了那么一点点的情调，譬如养一盆绿萝，在收到老姐送给的康乃馨时不是再磕磕叨叨又说乱花钱了······这一切希冀的小期待对于那些经历过大锅饭的父辈们来说，实在是苛求。&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 Aug 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000//blog/graduate-after-one-year.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/graduate-after-one-year.html</guid>
+        <link>https://www.aiforall.pro//blog/2017/08/graduate-after-one-year/</link>
+        <guid isPermaLink="true">https://www.aiforall.pro//blog/2017/08/graduate-after-one-year/</guid>
       </item>
     
   </channel>
