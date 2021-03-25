@@ -4,7 +4,8 @@ name: HongYan's homepage
 description:  I am an phD student of Computer Science and Technology in Shanghai Jiao Tong University (SJTU). 
   I major in computer vision and deep learning. Currently, I focus on meta-learning for few-shot image generation. 
   Prior to now, I was a master at SJTU. Before that, I obtained my bachelor degree from Shenzhen University(SZU).
-url: https://www.aiforall.pro
+# url: https://www.aiforall.pro
+url: https://www.yanhong.website
 github_username:  hy-zpg
 
 # 自定义post url
